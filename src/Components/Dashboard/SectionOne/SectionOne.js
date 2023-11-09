@@ -1,14 +1,14 @@
 import React from 'react'
 import './SectionOne.css'
-import { ArrowLeft } from 'react-bootstrap-icons'
+// import { ArrowLeft } from 'react-bootstrap-icons'
 import { ArrowRight } from 'react-bootstrap-icons'
-import BannerImg from "../../../Images/image.png";
-import Group17 from '../../../Images/Group17.png'
-import Group18 from '../../../Images/Group18.png'
-import Group19 from '../../../Images/Group19.png'
-import Group20 from '../../../Images/Group20.png'
-import Group21 from '../../../Images/Group21.png'
-import Group22 from '../../../Images/Group22.png'
+// import BannerImg from "../../../Images/image.png";
+// import Group17 from '../../../Images/Group17.png'
+// import Group18 from '../../../Images/Group18.png'
+// import Group19 from '../../../Images/Group19.png'
+// import Group20 from '../../../Images/Group20.png'
+// import Group21 from '../../../Images/Group21.png'
+// import Group22 from '../../../Images/Group22.png'
 import user2 from '../../../Images/user2.jpg'
 
 
